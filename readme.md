@@ -1,6 +1,6 @@
-## Simple CMS using Laravel backend and Bootstrap frontend
+## Laravel 3 Bootstrap - Simple CMS / Backend
 
-I used to have a CodeIgniter bootstrap framework that dealt with basic CRUD stuff, news articles, image galleries, users, permissions etc. All based on the amazing Laravel framework.
+I built this for use with some really simple client work. It's not the cleanest code, doesn't utilise templating properly etc however it's a great starter point for people to see how various parts of Laravel 3 works. In development is a Laravel 4 version, utilising more advanced design patterns / features of the framework.
 
 ### Feature Overview
 
